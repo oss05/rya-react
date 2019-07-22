@@ -1,0 +1,47 @@
+.navbar{
+    width: 100%;
+    height: 66px;
+    background-color: #ffffffbf !important;
+    font-family: 'Montserrat', sans-serif;
+    position: fixed;
+}
+
+.logoNav{
+    width: 20%;
+    display: flex;
+    justify-content: center;
+}
+
+.logoNav img{
+    width: 4.5em;
+}
+
+.collapseC{
+    /* border: solid 1px green; */
+    width: 80%;    
+    /* background-color: #ffffffbf; */
+}
+
+.navList{
+    /* border: solid 1px red; */
+    width: 90%;
+    margin-left: 0 !important;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 1em;
+    align-items: center;
+}
+
+.navList > li:hover {
+    border-bottom: 2px solid #8A0736;
+}
+
+.navList > li a {
+    color: #000 !important;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.navIco{
+    padding: 0 !important; 
+}

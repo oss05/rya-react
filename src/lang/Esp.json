@@ -1,0 +1,20 @@
+{
+   "secciones":{
+       "nosotros":{
+           "nombre":"Nosotros"
+       },
+       "areas":{
+           "nombre":"Áreas de Servicio"
+       },
+       "equipo":{
+           "nombre":"Equipo"
+       },
+       "boletines":{
+           "nombre":"Boletines"
+       },
+       "contacto":{
+           "nombre":"Contacto"
+       }
+
+   }
+}

@@ -1,0 +1,20 @@
+{
+    "secciones":{
+        "nosotros":{
+            "nombre":"Us"
+        },
+        "areas":{
+            "nombre":"Service Areas"
+        },
+        "equipo":{
+            "nombre":"Our Team"
+        },
+        "boletines":{
+            "nombre":"Newsletters"
+        },
+        "contacto":{
+            "nombre":"Contact Us"
+        }
+ 
+    }
+ }
